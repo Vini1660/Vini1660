@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2f2f7&size=35&center=true&vCenter=true&width=1000&lines=Olá,seja+bem+vindo+ao+meu+repositório+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=Vini1660&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vini1660&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1660&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
