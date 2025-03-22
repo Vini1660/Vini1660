@@ -6,20 +6,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1660&theme=radical"/>
 </div>
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vini1660&bg_color=0d1117&color=ff4791&line=ffde4d&point=acfbf3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ##
 
-### Em aprendizagem
+### Languages and Tools:
  <div>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Vini-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"">          
 </div>
 
 ##
 
-### Meios de contato
+###  Contact
 
 <p><a href = "mailto:viniciusrocha373@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </p>
 
