@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini1660&theme=radical"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vini1660&bg_color=0d1117&color=ff4791&line=ffde4d&point=acfbf3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
 ##
 
